@@ -1,4 +1,4 @@
-1) methods like readCandlesticksFromFile, filterCandlesticks, update, normalize, and displayCandlesticks come in 2 styles. 
+1) Methods like readCandlesticksFromFile, filterCandlesticks, update, normalize, and displayCandlesticks come in 2 styles. 
 Version 1 should be the version that takes arguments and returns something, and Version 2 should take no argument and return void. 
 For example, filterCandlesticks should have:
 
